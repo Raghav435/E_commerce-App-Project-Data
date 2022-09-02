@@ -1,20 +1,20 @@
 {
   "Mens": [
     {
-      "product-ratingsContainer": 4.3,
-      "product-ratingsCount": "30.8k",
-      "img-responsive-src": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1376577/2022/6/3/ea10ab6c-883e-437a-8780-ed87484393f81654235830793-Roadster-Men-Black--Grey-Checked-Casual-Sustainable-Shirt-42-1.jpg",
-      "product-brand": "Roadster",
-      "product-product": "Men Pure Cotton Casual Shirt",
+      "product_ratingsContainer": 4.3,
+      "product_ratingsCount": "30.8k",
+      "img_responsive_src": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1376577/2022/6/3/ea10ab6c-883e-437a-8780-ed87484393f81654235830793-Roadster-Men-Black--Grey-Checked-Casual-Sustainable-Shirt-42-1.jpg",
+      "product_brand": "Roadster",
+      "product_product": "Men Pure Cotton Casual Shirt",
       "product-sizeInventoryPresent": "38,",
       "product-sizeInventoryPresent 2": "40,",
       "product-sizeInventoryPresent 3": "42,",
       "product-sizeInventoryPresent 4": "44,",
       "product-sizeInventoryPresent 5": "46,",
       "product-sizeInventoryPresent 6": 48,
-      "product-discountedPrice": "Rs. 674",
-      "product-strike": "Rs. 1499",
-      "product-discountPercentage": "(55% OFF)"
+      "product_discountedPrice": "Rs. 674",
+      "product_strike": "Rs. 1499",
+      "product_discountPercentage": "(55% OFF)"
     },
     {
       "product-ratingsContainer": 4.1,
